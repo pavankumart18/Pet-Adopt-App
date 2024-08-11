@@ -23,10 +23,6 @@ Profile Page was Pending But you can do it
 3. Click on a pet to view its details.
 4. Click on the "Adopt" button to adopt a pet.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in the [CONTRIBUTING.md](CONTRIBUTING.md) file.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
